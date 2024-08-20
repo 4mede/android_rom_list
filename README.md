@@ -75,6 +75,7 @@
 - **TenXOS** | [Github](https://github.com/TenX-OS)
 - **Tequila OS** | [Github](https://github.com/tequilaOS) - [Web](https://tequilaos.org/)
 - **The XPerience Project** | [Github](https://github.com/TheXPerienceProject)
+- **UlimateOS** | [Github](https://github.com/UltimateOS)
 - **Voltage OS** | [Github](https://github.com/VoltageOS)
 - **YAAP AOSP** | [Github]( https://github.com/yaap) 
 
