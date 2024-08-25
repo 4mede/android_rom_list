@@ -36,6 +36,7 @@
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
 - **Paranoid Android** | [Github](https://github.com/AOSPA) - [Web](https://aospa.co/)
 - **Pixel Project** | [Github](https://github.com/The-Pixel-Project)
+- **PixelBuilds** | [Github](https://github.com/PixelBuildsROM) - [Web](https://pixelbuilds.org)
 - **PixelOS** | [Github](https://github.com/PixelOS-AOSP) - [Web](https://pixelos.net/)
 - **Pixys OS** | [Github](https://github.com/PixysOS) - [Web](https://downloads.pixysos.com/)
 - **Project Blaze** | [Github](https://github.com/ProjectBlaze) - [Web](https://www.projectblaze.in/)
