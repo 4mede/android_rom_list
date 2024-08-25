@@ -17,6 +17,7 @@
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
 - **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/)
 - **Fusion OS** | [Github](https://github.com/Fusion-OS)
+- **GenesisOS** | [Github](https://github.com/GenesisOS) - [Web](https://www.genesisos.dev)
 - **GrapheneOS** | [Github](https://github.com/GrapheneOS) - [Web](https://grapheneos.org/)
 - **Halcyon Project** | [Github](https://github.com/halcyonproject) - [Web](https://hlcyn.co/)
 - **Halogen OS** | [Github](https://github.com/halogenOS) - [Web](https://halogenos.org/)
