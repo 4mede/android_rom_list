@@ -45,6 +45,7 @@
 - **Project Infinity X** | [Github](https://github.com/ProjectInfinity-X)
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
 - **Project Matrixx** | [Github](https://github.com/ProjectMatrixx) - [Web](https://www.projectmatrixx.org/)
+- **Project Pixelage** | [Github](https://github.com/ProjectPixelage)
 - **Project Radiant** | [Github](https://github.com/ProjectRadiant)
 - **Project Sakura** | [Github](https://github.com/ProjectSakura) - [Web](https://projectsakura.me/)
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
