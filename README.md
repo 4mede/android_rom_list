@@ -3,6 +3,7 @@
 </h1>
 
 - **Advanced XPerience OS** | [Github](https://github.com/AXP-OS)
+- **AfterLifeOS** | [Github](https://github.com/AfterLifeOS) - [Web](https://afterlifeos.com)
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AlphaDroid** | [Github](https://github.com/AlphaDroid-Project)
 - **AmogOS Rom** | [Github](https://github.com/AmogOS-Rom)
@@ -36,6 +37,7 @@
 - **OrionOS** | [Github](https://github.com/OrionOS-prjkt)
 - **PalladiumOS** | [Github](https://github.com/Palladium-OS)
 - **Paranoid Android** | [Github](https://github.com/AOSPA) - [Web](https://aospa.co/)
+- **Parasite Project** | [Github](https://github.com/TheParasiteProject)
 - **Pixel Project** | [Github](https://github.com/The-Pixel-Project)
 - **PixelBuilds** | [Github](https://github.com/PixelBuildsROM) - [Web](https://pixelbuilds.org)
 - **PixelOS** | [Github](https://github.com/PixelOS-AOSP) - [Web](https://pixelos.net/)
@@ -46,6 +48,7 @@
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
 - **Project Matrixx** | [Github](https://github.com/ProjectMatrixx) - [Web](https://www.projectmatrixx.org/)
 - **Project Pixelage** | [Github](https://github.com/ProjectPixelage)
+- **Project PixelStar** | [Github](https://github.com/Project-PixelStar)
 - **Project Radiant** | [Github](https://github.com/ProjectRadiant)
 - **Project Sakura** | [Github](https://github.com/ProjectSakura) - [Web](https://projectsakura.me/)
 - **ReloadedOS** | [Github](https://github.com/ReloadedOS) - [Web](https://reloadedos.org/)
