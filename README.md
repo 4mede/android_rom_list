@@ -10,7 +10,7 @@
 - **Black Iron Project** | [Github](https://github.com/Black-Iron-Project)
 - **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/)
 - **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
-- **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/)
+- **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/index.html)
 - **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
 - **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
 - **Derpfest** | [Github](https://github.com/DerpFest-AOSP) - [Web](https://derpfest.org/)
