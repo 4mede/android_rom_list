@@ -16,6 +16,7 @@
 - **Derpfest** | [Github](https://github.com/DerpFest-AOSP) - [Web](https://derpfest.org/)
 - **DivestOS** | [Github](https://github.com/divested-mobile) - [Gitlab](https://gitlab.com/divested-mobile) - [Web](https://divestos.org)
 - **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
+- **Evervolv** | [Github](https://github.com/Evervolv) - [Web](https://evervolv.com)
 - **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/)
 - **Fusion OS** | [Github](https://github.com/Fusion-OS)
 - **GenesisOS** | [Github](https://github.com/GenesisOS) - [Web](https://www.genesisos.dev)
