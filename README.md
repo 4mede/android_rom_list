@@ -62,6 +62,8 @@
 - **StatiX OS** | [Github](https://github.com/StatiXOS)
 - **Superior OS** | [Github](https://github.com/SuperiorOS) - [Web](https://superioros.github.io/)
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
+- **TenX-OS** | [Github](https://github.com/TenX-OS)
+- **The Styx Project** | [Github](https://github.com/StyxProject)
 - **The XPerience Project** | [Github](https://github.com/TheXPerienceProject)
 - **UlimateOS** | [Github](https://github.com/UltimateOS)
 - **Voltage OS** | [Github](https://github.com/VoltageOS)
