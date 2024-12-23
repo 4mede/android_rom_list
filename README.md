@@ -48,6 +48,7 @@
 - **Project Infinity X** | [Github](https://github.com/ProjectInfinity-X)
 - **Project Kaleidoscope** | [Github](https://github.com/Project-Kaleidoscope) - [Web](https://kaleidoscope.ink/)
 - **Project Matrixx** | [Github](https://github.com/ProjectMatrixx) - [Web](https://www.projectmatrixx.org/)
+- **Project Mist OS** | [Github](https://github.com/Project-Mist-OS)
 - **Project Pixelage** | [Github](https://github.com/ProjectPixelage)
 - **Project PixelStar** | [Github](https://github.com/Project-PixelStar)
 - **Project Radiant** | [Github](https://github.com/ProjectRadiant)
